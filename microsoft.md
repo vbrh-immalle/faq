@@ -45,19 +45,23 @@ a definite requirement.
 
 ## But honestly ...
 
-Windows is crap produced by a mediocre company devoid of any real
-innovation that was formed by a guy who stole Basic and sold it to
-become the giant Microsoft is. Later the greedy but stupid company
-claimed the network and Google would never amount to anything. Then
-they purposefully sabotaged software competing with theirs for which
-they were convicted. But perhaps their worst sin against humanity
-is Internet Explorer, which has single-handedly held the Web back
-decades by being the single most brain-dead, non-standard, broken
-web browser in history.
+Windows is an inferior operating system flawed at it’s core,
+literally, and created by a mediocre company devoid of any real
+innovation, a company that was formed by a guy who stole Basic and
+sold it to become the giant Microsoft is. Later the greedy but
+stupid company claimed the network and Google would never amount
+to anything. Then they purposefully sabotaged software competing
+with theirs for which they were convicted. Perhaps Microsoft’s worst
+sin against humanity is Internet Explorer, which has single-handedly
+held the Web back decades by being the most brain-dead,
+non-standard, broken web browser in history.
 
 It took Microsoft 15 years to realize how stupid they were to not
-put Bash on the command line, after they lost pretty much every
-developer to Macbook Pros. Now they still suck at it.
+put Bash on the command line. During that time Macbook Pros, with
+a powerful command line, grew to become an essential developer tool
+(unless, of course, you are making something for Windows). Now MS is
+trying to make Windows more Linux/Mac-like by putting Bash on Windows
+10 some 16 years too late.
 
 If you don't believe any of this fine, but you  still have to accept
 that this screaming banshee monkey boy was the CEO in charge of all
@@ -65,23 +69,19 @@ major executive decisions for years:
 
 [![idiot](/assets/idiot.png)](https://youtu.be/e8M6S8EKbnU)
 
-We are not fans of those who not only live in mediocrity, but
-celebrate it chasing those who are successful, all the while denying
-it and screaming like banshees that they are the best.
+This guy thinks acting like a crooked car salesman to peddle servers
+to executives is good decision. You don't really need to know any
+more about him, but there is plenty.
 
-Better? Convinced?
+We are not fans of those live in mediocrity chasing and copying
+those who are successful while denying them credit and screaming
+like banshees that they are the best. 
 
-If you disagree simply go away. It is probably good you understand
-this is how we feel now before you get offended in class. Microsoft
-sucks for everything but 3D and games. Those companies and individuals
-who pick Microsoft for their server architecture are uninformed
-idiots usually doing it for some reason (golf buddies with MS sales
-reps) other than making the correct technical decision. And no, if
-this describes you, we’re not sorry.  Run off and make more stuff
-no one will use unless forced. Leave the innovation to the rest of us
-that actually know how to use a command line and prefer it.
+Not convinced?
 
-Hey, you asked.
+Well it really does not matter. Use Windows if you like. We don't
+unless we absolutely have to. It is probably good you understand this
+now.
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
