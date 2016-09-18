@@ -63,7 +63,7 @@ If you don't believe any of this fine, but you  still have to accept
 that this screaming banshee monkey boy was the CEO in charge of all
 major executive decisions for years:
 
-[![idiot](/assets/idiot.png)](https://youtu.be/tmja_g5h4Fg)
+[![idiot](/assets/idiot.png)](https://youtu.be/e8M6S8EKbnU)
 
 We are not fans of those who not only live in mediocrity, but
 celebrate it chasing those who are successful, all the while denying
