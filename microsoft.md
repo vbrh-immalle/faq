@@ -14,7 +14,7 @@ things Mac and Linux have had for more than 16 years.
 ## Why do so many companies choose Microsoft then?
 
 Because they are stupid. Microsoft sales people have successfully
-convinced a lot of uninformed decision makers, most of who have
+convinced a lot of uninformed decision makers, most of whom have
 never written a line of code in their lives, that Microsoft is
 better for their enterprise as a whole. The lie spun by MS sales
 people is that Microsoft architectures will be cheaper and easier
