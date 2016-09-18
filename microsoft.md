@@ -37,7 +37,7 @@ open alternatives. GameMaker has regularly crashed and corrupted
 student work irrecoverably for more than five years. We'll never use
 it again.
 
-## Isn't SolidWorks only Windows?
+## Isn’t SolidWorks only Windows?
 
 Yes and it rocks. This is a good example of a clear case where having
 a Windows operating system, (which can also run on Mac), is
