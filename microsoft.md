@@ -75,8 +75,10 @@ in class. Microsoft sucks for everything but 3D and games. Those
 companies and individuals who pick Microsoft for their server
 architecture are uninformed idiots usually doing it for some reason
 (golf buddies with MS sales reps) other than making the correct
-technical decision.
+technical decision. And no, if this describes you, we’re not sorry.
+Run off and make more stuff no one will use unless forced.
 
+Hey, you asked.
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
