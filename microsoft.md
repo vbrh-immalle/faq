@@ -6,7 +6,7 @@ and Linux. Most of the web runs on Linux machines. Most of the web
 is developed on Macs.
 
 Microsoft dominates 3D at the moment but is a far inferior server
-operating system s). Microsoft is changing rapidly to comply with
+operating system. Microsoft is changing rapidly to comply with
 the standards allows Linux on their Azure cloud and shoe-horning
 Bash command line into Windows 10 (for developers only). These are
 things Mac and Linux have had for more than 16 years.
