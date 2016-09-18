@@ -78,7 +78,8 @@ who pick Microsoft for their server architecture are uninformed
 idiots usually doing it for some reason (golf buddies with MS sales
 reps) other than making the correct technical decision. And no, if
 this describes you, we’re not sorry.  Run off and make more stuff
-no one will use unless forced.
+no one will use unless forced. Leave the innovation to the rest of us
+that actually know how to use a command line and prefer it.
 
 Hey, you asked.
  
