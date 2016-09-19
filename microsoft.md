@@ -76,7 +76,7 @@ more about him, but there is plenty.
 Microsoft is certainly headed in a better direction now, but they are
 literally a decade behind.
 
-We are not fans of those live in mediocrity chasing and copying
+We are not fans of those who live in mediocrity chasing and copying
 those who are successful while denying them credit and screaming
 like banshees that they are the best. 
 
