@@ -69,9 +69,12 @@ the CEO in charge of all major executive decisions for years:
 
 [![idiot](/assets/idiot.png)](https://youtu.be/e8M6S8EKbnU)
 
-This guy thinks acting like a crooked car salesman to peddle servers
-to executives is good decision. You don't really need to know any
+This guy thought acting like a crooked car salesman to peddle servers
+to executives was a good decision. You don't really need to know any
 more about him, but there is plenty.
+
+Microsoft is certainly headed in a better direction now, but they are
+literally a decade behind.
 
 We are not fans of those live in mediocrity chasing and copying
 those who are successful while denying them credit and screaming
