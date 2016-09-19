@@ -63,7 +63,8 @@ trying to make Windows more Linux/Mac-like by putting Bash on Windows
 10 some 16 years too late.
 
 If you don't believe any of this fine, but you  still have to accept
-that this screaming banshee monkey boy was the CEO in charge of all
+that this screaming banshee monkey boy—who exhibits every symptom of
+yet another cocaine-sniffing executive—was the CEO in charge of all
 major executive decisions for years:
 
 [![idiot](/assets/idiot.png)](https://youtu.be/e8M6S8EKbnU)
