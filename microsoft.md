@@ -39,9 +39,8 @@ it again.
 
 ## Isn’t SolidWorks only Windows?
 
-Yes and it rocks. This is a good example of a clear case where having
-a Windows operating system, (which can also run on Mac), is
-a definite requirement.
+Yes and it rocks. This is a good example of a clear case to have
+a Windows operating system, (which can also run on Mac).
 
 ## But honestly ...
 
