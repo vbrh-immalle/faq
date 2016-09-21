@@ -1,11 +1,14 @@
 # SkilStak™ Frequently Asked Questions
 
-* [Why doesn't SkilStak have Lego robotics?](legos.md)
-* [Why don't you use/support Windows??](microsoft.md)
+* [Why don’t you have Lego robotics?](legos.md)
+* [Why don’t you use/support Windows?](microsoft.md)
+* [Which computer should I get?][computer]
 * [Why don’t you have your own curriculum?](curriculum.md)
 * [Can I use your curriculum in our school/business/home?](curriculum.md)
 * [What curriculum do you follow/recommend?](curriculum.md)
 * [Are there any curricula you discourage?](curriculum.md)
+
+[computer]: https://github.com/skilstak/prep/blob/gh-pages/computer.md
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
