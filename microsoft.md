@@ -18,7 +18,7 @@ convinced a lot of uninformed decision makers, most of whom have
 never written a line of code in their lives, that Microsoft is
 better for their enterprise as a whole. The lie spun by MS sales
 people is that Microsoft architectures will be cheaper and easier
-to implement.
+to implement and support.
 
 ## Most consumers use Microsoft Windows?
 
