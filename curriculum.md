@@ -45,13 +45,13 @@ Here is an ongoing list of reported errors that have gone unfixed.
 Some of these are rather serious, like those involving semicolon
 injection:
 
-***Not HTML5, Using Ancient DHTML/XHTML Instead***
+*Not HTML5, Using Ancient DHTML/XHTML Instead*
 
 ```html
 <img href="" />
 ```
 
-***Semicolon Injection Errors***
+*Semicolon Injection Errors*
 
 Several JavaScript exercises call for putting the bracket on the line
 following an `if` statement. Anyone who knows JavaScript knows how bad
