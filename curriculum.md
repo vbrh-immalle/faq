@@ -2,24 +2,24 @@
 
 ## Why don’t you have your own curriculum?
 
-If something works don't fix it. We look at curriculum very closely
-and compare it to our core mission of teaching real code and tech
-in ways that professionals use it. We’re also required to balance
-this need with that to engage students as young as eight.
+Actually most of our curriculum is our own mostly because we try
+to keep really relevant and up to date. Often no other material
+exists—especially for our target 8-18 age range.  A lot of educational
+material also has significant flaws in our view making it more work
+to unteach what it requires students to teach.
+
+But also, if something works don't fix it. We look at curriculum
+very closely and compare it to our core mission of teaching real
+code and tech in ways that professionals use it. We’re also required
+to balance this need with that to engage students as young as eight.
 CodeCombat.com is a good example of what we see as a perfect balance
 of these things. It isn’t perfect, but it is close enough to use
 without having to create our own.
 
-We actually do have a lot of our own curriculum because a lot of
-educational material is either non-existent for the most recent
-version of the technology we are teaching or has significant flaws in
-our view making it more work to unteach what it requires students to
-teach. 
-
 ## Can I use your curriculum in our school/business/home?
 
 All our materials are released under Open Educational Resources
-(OER) with the Creative Commons Attribution 4.0 (as is included
+(OER) with the Creative Commons Attribution-ShareAlike 4.0 (as is included
 with them all).
 
 ## What curriculum do you follow/recommend?
