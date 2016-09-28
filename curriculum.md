@@ -66,11 +66,11 @@ if (condition)
 
 **CodeCombat.com**
 
-Although CodeCombat.com is a major pillar of our program, using the
-`loop:` construct, which they added to simplify the concept of
-`while True:`, has always annoyed me. I suggest starting with the loop
-the way Python really uses it and telling them what it does right
-away.
+Although CodeCombat.com is a *major* pillar of our program and we
+strongly recommend it, using the `loop:` construct, which they added
+to simplify the concept of `while True:`, has always annoyed me. I
+suggest starting with the loop the way Python really uses it and
+telling them what it does right away.
 
 **Code.org**
 
