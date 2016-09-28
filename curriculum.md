@@ -25,13 +25,12 @@ with them all).
 ## What curriculum do you follow/recommend?
 ## Are there any curricula you discourage?
 
-**CodeAcademy**
+**Codecademy**
 
-Yes, most of the material on codecademy.com is either buggy (the
-command-line tutorial) or out of date. One example of this is
-codecademy.com teaches Python 2, not Python 3, which was released
-in 2008. The final 2.7 release was out in 2010. From the official
-docs:
+Yes, most of the material on codecademy.com is either buggy or out
+of date. One best example of this is codecademy.com teaches Python 2,
+not Python 3, which was released in 2008. The final 2.7 release was
+out in 2010. From the official docs:
 
 > In particular, instructors introducing Python to new programmers
 > should consider teaching Python 3 first and then introducing the
@@ -41,6 +40,29 @@ docs:
 
 Codecademy is directly violating this request from the creators of the
 language itself and has been for more than five years.
+
+Here is an ongoing list of reported errors that have gone unfixed.
+Some of these are rather serious, like those involving semicolon
+injection:
+
+***Not HTML5, Using Ancient DHTML/XHTML Instead***
+
+```html
+<img href="" />
+```
+
+***Semicolon Injection Errors***
+
+Several JavaScript exercises call for putting the bracket on the line
+following an `if` statement. Anyone who knows JavaScript knows how bad
+this is since it becomes `if (condition);` when interpreted.
+
+```javascript
+if (condition)
+{
+  something
+}
+```
 
 **CodeCombat.com**
 
