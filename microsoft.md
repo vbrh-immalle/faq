@@ -1,5 +1,9 @@
 # Microsoft
 
+Our lack of love for Microsoft is based on much more than their
+thumb-nosing at the world with their lack of
+Unicode terminal support (preventing our fun emojis).
+
 SkilStak is focused on helping others learn backend and frontend
 engineering. Both of these industry domains are dominated by Mac
 and Linux. Most of the web runs on Linux machines. Most of the web
