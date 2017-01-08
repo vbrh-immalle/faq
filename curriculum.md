@@ -89,7 +89,7 @@ on and certainly nothing students would take with them directly into
 a course or job opportunity using real programming methods from the
 command line.
 
-**Check.IO**
+**CheckIO.org**
 
 Amazing site, just too darn hard for most students starting out or
 between 8 and 18, otherwise great!
